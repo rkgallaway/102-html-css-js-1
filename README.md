@@ -1,3 +1,3 @@
-#102-html-css-js
+# 102-html-css-js
 
 This is the class I'm attending
