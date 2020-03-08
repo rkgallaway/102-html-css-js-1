@@ -24,6 +24,10 @@ body>header>h1 {
     color: darkblue;
 }
 
+body>header>h1>p {
+    width:auto;
+}
+
 body>header>nav {
     width: auto;
     height: 50px;
@@ -55,10 +59,28 @@ body>main {
     width: auto;
 }
 
+h2 {
+    height: auto;
+    width: auto;
+}
+
+
+
+
 body>main>article {
     width: auto;
     height: auto;
     margin: 25px;
+}
+
+
+body>main>article>script {
+    width: auto;
+    margin-right: 5px; 
+}
+
+body>main>article>script>h3 {
+    width: auto;
 }
 
 body>main>article>img {
